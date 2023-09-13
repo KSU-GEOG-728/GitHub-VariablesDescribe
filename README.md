@@ -7,7 +7,7 @@ Accept the GitHub Classroom assignment <code>GitHub-VariablesDescribe</code> and
 
 ### Task:
 
-Edit the provided stand-alone Python script called <code>GitHub-FirstPythonScript.py</code> so that it accomplishes the following objectives and/or includes these specific features:
+Edit the provided stand-alone Python script called <code>GitHub-VariablesDescribe.py</code> so that it accomplishes the following objectives and/or includes these specific features:
 
 1. Incorporates any needed revisions to successfully meet last week's exercise requirements.
 2. Uses variable names for tool parameters - inputs and final output - rather than "hard coding" filenames.  You may hard code any intermediate results and save them in your current workspace.
